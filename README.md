@@ -15,3 +15,5 @@
  
 # :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jpsm0305@naver.com)](mailto:jpsm0305@naver.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:rlatngus1691@naver.com)
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
