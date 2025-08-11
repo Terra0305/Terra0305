@@ -10,7 +10,6 @@
     width="1000"
     height="120"
   />
-
 </a>
 # 💪Skills
 ### Platforms & Languages
