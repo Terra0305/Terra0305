@@ -13,3 +13,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Terra0305&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Terra0305?pet-id=740850277997389231"
+    width="600"
+    height="120"
+  />
+</a>
+  
