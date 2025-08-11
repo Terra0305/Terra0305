@@ -12,6 +12,15 @@
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jpsm0305&theme=dark)
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Terra0305?pet-id=1" width="1000" height="120"/>
+
+
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Terra0305&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Terra0305?pet-id=740850277997389231"
+    width="600"
+    height="120"
+  />
 </a>
+  
