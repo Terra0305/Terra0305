@@ -12,6 +12,7 @@
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jpsm0305&theme=dark)
 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Terra0305&utm_content=line">
   <img
