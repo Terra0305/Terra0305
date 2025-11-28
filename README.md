@@ -9,15 +9,14 @@
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-[![Google Gravity](https://img.shields.io/badge/Google%20Gravity-MR.DOOB-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://mrdoob.com/projects/chromeexperiments/google-gravity/)
 <br/>
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jpsm0305&theme=dark)
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Terra0305&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Terra0305?pet-id=742617052216752146"
-    width="600"
-    height="120"
-  />
+  <img
+    src="https://render.gitanimals.org/lines/Terra0305?pet-id=742617052216752146"
+    width="600"
+    height="120"
+  />
 </a>
