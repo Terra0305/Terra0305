@@ -1,6 +1,3 @@
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jpsm0305)](https://solved.ac/jpsm0305)
-
 
 # 💪Skills
 ### Platforms & Languages
