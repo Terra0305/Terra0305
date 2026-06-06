@@ -7,7 +7,7 @@
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 <br/>
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=jpsm0305&theme=dark)
+
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Terra0305&utm_content=line">
